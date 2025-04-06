@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/crdwebcode/crdwebcode/main/banner-github-db128189-7051-450b-a075-3dc726c4241b.png" alt="Banner crdwebcode" width="100%">
+  <img src="https://raw.githubusercontent.com/crdwebcode/crdwebcode/main/db128189-7051-450b-a075-3dc726c4241b.png" alt="Banner crdwebcode" width="100%">
 </p>
 
 <h1 align="center">✨ crdwebcode — El Patrón del Código Futurista Neon™ 😎🖖</h1>
